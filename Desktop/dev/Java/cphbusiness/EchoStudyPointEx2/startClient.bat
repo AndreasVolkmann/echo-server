@@ -1,0 +1,1 @@
+java -cp Echo.jar echoclient.NewApplication 9090 localhost
